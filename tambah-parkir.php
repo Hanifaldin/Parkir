@@ -28,8 +28,8 @@
                 <label>Jenis Kendaraan :</label>
                   <br>
                   <select name="jenis_kendaraan" id="jenis_kendaraan">
-                    <option value="Motor">Motor</option>
-                    <option value="Mobil">Mobil</option>
+                    <option value="Motor">Mobil</option>
+                    <option value="Mobil">Motor</option>
                   </select>
                 </div>
 
